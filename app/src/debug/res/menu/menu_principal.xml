@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_servicioinicio"
+        android:title="@string/menu_serini"/>
+    <item
+        android:id="@+id/menu_anadir"
+        android:title="@string/menu_1"/>
+    <item
+        android:id="@+id/menu_martes"
+        android:title="@string/menu_2"/>
+    <item
+        android:id="@+id/menu_miercoles"
+        android:title="@string/menu_3"/>
+    <item
+        android:id="@+id/menu_jueves"
+        android:title="@string/menu_4"/>
+    <item
+        android:id="@+id/menu_viernes"
+        android:title="@string/menu_5"/>
+    <item
+        android:id="@+id/menu_sabado"
+        android:title="@string/menu_6"/>
+    <item
+        android:id="@+id/menu_domingo"
+        android:title="@string/menu_7"/>
+    <item
+        android:id="@+id/menu_puntos"
+        android:title="@string/menu_puntos"/>
+
+</menu>

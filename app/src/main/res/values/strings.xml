@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ZMap</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="menu_1">Lunes</string>
+    <string name="menu_2">Martes</string>
+    <string name="menu_3">Miercoles</string>
+    <string name="menu_4">Jueves</string>
+    <string name="menu_5">Viernes</string>
+    <string name="menu_6">Sabado</string>
+    <string name="menu_7">Domingo</string>
+    <string name="menu_puntos">PuntosInteres</string>
+    <string name="menu_serini">Iniciar Servicio</string>
+
+    <string name="longit">Longitud</string>
+    <string name="lati">Latitud</string>
+    <string name="anadir">Añadir</string>
+
+</resources>
